@@ -2,6 +2,7 @@
   "name": "vk",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://qqinsanity.github.io/vk11/"
   "dependencies": {
     "@vkontakte/vkui": "^2.16.2",
     "@vkontakte/vkui-connect": "^1.1.3",
